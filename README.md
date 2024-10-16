@@ -1,16 +1,15 @@
-## Hi there 👋
+## BEM VINDO 👻
+- Meu nome é Lucas Gomes da Silva
+- Estudo no colégio Padre Claudio Morelli
+- Neymar
+- luc_xzz10
+![](https://media1.tenor.com/m/5Xgt3Phtx64AAAAC/thank-you-sticker-thanks-sticker.gif)
 
-<!--
-**lucazzx10/lucazzx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
