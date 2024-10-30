@@ -1,9 +1,13 @@
 ## BEM VINDO 👻
-- Meu nome é Lucas Gomes da Silva
-- Estudo no colégio Padre Claudio Morelli
+- Lucas 
+- Morelli
 - Neymar
-- luc_xzz10
-![](https://media1.tenor.com/m/5Xgt3Phtx64AAAAC/thank-you-sticker-thanks-sticker.gif)
+- @41_lucazz
+- 20/05/2009
+- 
+
+![](https://media1.tenor.com/m/e8E-wRS1GT8AAAAd/neymar-jr-neymar.gif)
+
 
 
 
